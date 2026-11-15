@@ -66,7 +66,7 @@ class Program3
   }
   public static void AuthorInfo()
   {
-    Console.WriteLine("Автор: Тумаев Егор Дмитриевич\n Группа: 6104-090301D");
+    Console.WriteLine("Автор: Wiz1X");
   }
   public static void SortArray()
   {
